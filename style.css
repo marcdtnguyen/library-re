@@ -1,0 +1,15 @@
+form {
+    position:absolute;
+    left: 10vw;
+    width: 80vw;
+}
+
+.opForm {
+    position: fixed;
+    bottom: 5vh;
+    right: 5vh;
+}
+
+.hidden {
+    visibility: collapse;
+}
